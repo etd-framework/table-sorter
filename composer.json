@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/tablesorter",
+  "description": "Shim repository for TableSorter",
+  "homepage": "http://tablesorter.com",
+  "license": "MIT",
+  "require": {
+    "etdsolutions/jquery": ">=1.2.1"
+  }
+}
